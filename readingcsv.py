@@ -30,3 +30,4 @@ print data[3,3] #remember 1st col is 0, 1st row is 0
 number_passengers = np.size(data[0::,1].astype(np.float))
 number_survived = np.sum(data[0::,1].astype(np.float))
 proportion_survivors = number_survived / number_passengers
+#dsifkjsdfk
